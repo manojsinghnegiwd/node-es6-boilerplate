@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manojsinghnegiwd/node-es6-boilerplate/issues"
   },
-  "homepage": "https://github.com/manojsinghnegiwd/node-es6-boilerplate#readme"
+  "homepage": "https://github.com/manojsinghnegiwd/node-es6-boilerplate#readme",
+  "devDependencies": {
+    "babel-register": "^6.23.0"
+  }
 }
