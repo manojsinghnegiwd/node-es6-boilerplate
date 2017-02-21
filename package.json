@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/manojsinghnegiwd/node-es6-boilerplate#readme",
   "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
     "babel-register": "^6.23.0"
   }
 }
