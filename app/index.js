@@ -1,1 +1,1 @@
-console.log('Hey this is a start');
+require('./server.js');
